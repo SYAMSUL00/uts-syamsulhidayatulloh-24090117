@@ -15,25 +15,25 @@
 # Deskripsi Singkat Project
 Project ini merupakan aplikasi berbasis web yang terdiri dari beberapa halaman dengan fungsi masing-masing:
 
-# 1. *Halaman Login*
+# 1. Halaman Login
 - Tempat user memasukkan username dan password.  
 - Jika login berhasil → diarahkan ke halaman dashboard.  
 - Jika gagal → muncul pesan error.
 
-# 2. *Halaman Dashboard*
+# 2. Halaman Dashboard
 - Menampilkan ringkasan fitur utama aplikasi.  
 - Berisi navigasi menuju halaman lain seperti produk, transaksi, dan profil.
 
-# 3. *Halaman Data Product*
+# 3. Halaman Data Product
 - Menampilkan daftar produk dalam bentuk tabel.  
 - Fitur melihat detail, edit, dan hapus data produk.  
 - Tombol “Tambah Produk” mengarahkan ke halaman form.
 
-# 4. *Halaman Tambah Produk*
+# 4. Halaman Tambah Produk
 - Form untuk memasukkan data produk baru (nama, harga, kategori, gambar, dll).  
 - Setelah submit → data muncul di halaman Data Product.
 
-# 5. *Halaman Tentang / Profil*
+# 5. Halaman Tentang/Profil
 - Menampilkan informasi tentang pembuat proyek atau profil aplikasi.
 
 ---
