@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<div class="layout">
+    <div class="sidebar">
+        <ul>
+            <li><img src="img/home.png"></li>
+            <li><img src="img/widget.png"></li>
+            <li><img src="img/dollar.jpg"></li>
+            <li><img src="img/statistic.png"></li>
+            <li><img src="img/setting.png"></li>
+        </ul>
+    </div>
+    <div class="main">
+
+        <h1 class="title">Dashboard</h1>
+        <div class="card-container">
+
+            <div class="card">
+                <img src="img/keranjang.png" class="card-icon">
+                <p class="card-title">Total Products</p>
+                <h2 id="totalProducts" class="card-value"></h2>
+            </div>
+
+            <div class="card">
+                <img src="img/keranjang.png" class="card-icon">
+                <p class="card-title">Total Sales</p>
+                <h2 id="totalSales" class="card-value"></h2>
+            </div>
+
+            <div class="card">
+                <img src="img/dolar.jpg" class="card-icon">
+                <p class="card-title">Total Revenue</p>
+                <h2 id="totalRevenue" class="card-value"></h2>
+            </div>
+
+        </div>
+        <button class="view-btn" onclick="goToProducts()">Lihat Data Produk</button>
+
+    </div>
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
