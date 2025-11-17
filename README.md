@@ -7,8 +7,8 @@
 ---
 
 #  Link Penting
-- *GitHub Repository:* https://github.com/username/nama-repo  
-- *GitHub Pages:* https://username.github.io/nama-repo/
+- GitHub Repository: https://github.com/SYAMSUL00/uts-syamsulhidayatulloh-24090117 
+- GitHub Pages: https://syamsul00.github.io/uts-syamsulhidayatulloh-24090117/
 
 ---
 
