@@ -38,7 +38,7 @@ Project ini merupakan aplikasi berbasis web yang terdiri dari beberapa halaman d
 
 ---
 
-# 📂 Struktur Folder
+# Struktur Folder
 /
 │── index.html
 │── login.html
